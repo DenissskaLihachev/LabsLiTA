@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabsLiTA", "LabsLiTA\LabsLiTA.csproj", "{66749430-554F-4B7F-B4D0-25089CC3BD20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66749430-554F-4B7F-B4D0-25089CC3BD20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66749430-554F-4B7F-B4D0-25089CC3BD20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66749430-554F-4B7F-B4D0-25089CC3BD20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66749430-554F-4B7F-B4D0-25089CC3BD20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C41CE99F-7C2F-4D9B-AC68-0745BF0F78F4}
+	EndGlobalSection
+EndGlobal
